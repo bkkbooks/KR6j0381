@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0381/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說地藏菩薩陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1159B.xml
+    old_id: T20n1159B
+hash: sha256:8d0263bc965c1d319a5b9a99673c7d3b2aee5ed070ae557d922d24e485eec502

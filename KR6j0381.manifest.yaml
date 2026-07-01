@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0381/v1
+canonical_location: https://kanripo.org/bkk/KR6j0381/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說地藏菩薩陀羅尼經
+  identifiers:
+    alt_id:
+    - T20n1159B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1159B.xml
+    old_id: T20n1159B
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0381_000.yaml, hash: 'sha256:8d0263bc965c1d319a5b9a99673c7d3b2aee5ed070ae557d922d24e485eec502'}
+  - {seq: 1, filename: KR6j0381_001.yaml, hash: 'sha256:962c70421e82d24822d7cbaa03a8b1262b29b9fb8b4a9efc3def29911d05d5e8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0381_001.markers.yaml, hash: 'sha256:6ec9ab0c398afba22c2b482a0c64675484ab0bc6bb1b374a405017e28ba6f626'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0381_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6836
+  label: 佛說地藏菩薩陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:c8aaad194511678d84f594cd69906c614b952f54276745fce10ef5a56c6cfe40
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
