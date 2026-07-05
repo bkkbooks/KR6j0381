@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0381_000.yaml, hash: 'sha256:8d0263bc965c1d319a5b9a99673c7d3b2aee5ed070ae557d922d24e485eec502'}
-  - {seq: 1, filename: KR6j0381_001.yaml, hash: 'sha256:962c70421e82d24822d7cbaa03a8b1262b29b9fb8b4a9efc3def29911d05d5e8'}
+  - {seq: 1, filename: KR6j0381_001.yaml, hash: 'sha256:172ec9c931a0ed97304e635a3f1ea9f3060628f03c39e1d9ce14fabb019db276'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0381_001.markers.yaml, hash: 'sha256:6ec9ab0c398afba22c2b482a0c64675484ab0bc6bb1b374a405017e28ba6f626'}
+  - {seq: 0, role: markers, filename: assets/KR6j0381_000.markers.yaml, hash: 'sha256:c749cc0c77022cc8511aeca1dde3512f08aee105815ec7a018ce73e4413b066d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0381_001.markers.yaml, hash: 'sha256:eced9e9c77e83a0d376668ec0f13f58786470e9a8f279a4f2605ca2ac32bf708'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說地藏菩薩陀羅尼經
   type: juan
   level: 1
-hash: sha256:c8aaad194511678d84f594cd69906c614b952f54276745fce10ef5a56c6cfe40
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:283188c50f21f595ac04388ee9597720a8aa5e1363db43812577d918cdb2e05a
